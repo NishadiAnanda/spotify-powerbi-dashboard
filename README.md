@@ -23,7 +23,7 @@ music characteristics, popularity trends, and artist-level insights.
 - Spotify Audio Features Dataset
 
 ## 📸 Dashboard Preview
-![Overview](Screenshots/overview.png)
+![Overview](Overview.png)
 
 ## 🚀 How to Use
 1. Download the `.pbix` file
